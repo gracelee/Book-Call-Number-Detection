@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosc/student/dil15/Desktop/Project/tesseract.cpp
+tesseract/baseapi.h
+-
+leptonica/allheaders.h
+-
+sys/time.h
+-
+

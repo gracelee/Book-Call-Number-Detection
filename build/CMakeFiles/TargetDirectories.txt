@@ -1,0 +1,9 @@
+/home/cosc/student/dil15/Desktop/Project/build/CMakeFiles/rebuild_cache.dir
+/home/cosc/student/dil15/Desktop/Project/build/CMakeFiles/edit_cache.dir
+/home/cosc/student/dil15/Desktop/Project/build/CMakeFiles/red.dir
+/home/cosc/student/dil15/Desktop/Project/build/CMakeFiles/main.dir
+/home/cosc/student/dil15/Desktop/Project/build/CMakeFiles/hsv.dir
+/home/cosc/student/dil15/Desktop/Project/build/CMakeFiles/contours.dir
+/home/cosc/student/dil15/Desktop/Project/build/CMakeFiles/word.dir
+/home/cosc/student/dil15/Desktop/Project/build/CMakeFiles/square.dir
+/home/cosc/student/dil15/Desktop/Project/build/CMakeFiles/threshold.dir
